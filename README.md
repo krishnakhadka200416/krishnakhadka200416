@@ -8,9 +8,9 @@ I'm a PhD candidate in Computer Science at **The University of Texas at Arlingto
 
 ## Research highlights
 
-- **[ABLE](https://github.com/krishnakhadka200416/ABLE)** — Local explanations built from adversarial pairs. **KDD 2026 · Oral**.
-- **[DD-CAM](https://arxiv.org/abs/2602.19274)** — Minimal sufficient explanations for vision models using delta debugging. **NeurIPS 2026 · Oral**.
-- **DSR** — Post-hoc repair of repeated classification failures using decision signatures. **Under review at AAAI 2027**.
+- **[ABLE](https://github.com/krishnakhadka200416/ABLE)**: Local explanations built from adversarial pairs. **KDD 2026 · Oral**.
+- **[DD-CAM](https://arxiv.org/abs/2602.19274)**: Minimal sufficient explanations for vision models using delta debugging. **NeurIPS 2026 · Oral**.
+- **DSR**: Post-hoc repair of repeated classification failures using decision signatures. **Under review at AAAI 2027**.
 
 **8 peer-reviewed papers · 1 manuscript under review · 70+ citations**  
 See my [portfolio](https://krishnakhadka200416.github.io/portfolio/#publications) for the full publication list.
